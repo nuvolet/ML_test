@@ -12,3 +12,5 @@ cloud_fraction_estimation_using_KDTreee_and_satellite_imagery.py
 comprehensive_example_classification_scikit-learn.py
 pytorch_example.py
 tensorflow_example.py
+
+All these scripts have been created for testing the application of the libraries
